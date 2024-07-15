@@ -147,7 +147,7 @@ var BJData = [
         value: 60
     }],
     [{
-        name: '北京'
+        name: ' '
     }, {
         name: ' ',
         value: 60
